@@ -1,0 +1,8 @@
+3. We can compile a C program without a main, but it will not be executed because the execution starts from the main.
+4. No, I can not.
+5. The code will print 8.
+6. The code will print “even”.
+7. sizeof(int)=4, sizeof(x)=20
+8. I was not able to make this code run.
+9. x=4, y=5
+10. Yes, the union elements can be of different sizes.
